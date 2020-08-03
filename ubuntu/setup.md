@@ -90,5 +90,5 @@ https://github.com/seebi/tmux-colors-solarized
     in the repository.
 
 * Needed to add my own line (thanks to unix.stackexchange post)
-  # Specify terminal type
-  set -g default-terminal "screen-256color"
+  - # Specify terminal type
+  - set -g default-terminal "screen-256color"
