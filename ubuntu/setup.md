@@ -47,7 +47,7 @@ $ sudo apt-get upgrade
 ## Install Solarized for terminal
 https://github.com/aruhier/gnome-terminal-colors-solarized
 
-* $ git clone https://github.com/altercation/vim-colors-solarized
+* $ git clone https://github.com/aruhier/gnome-terminal-colors-solarized
 
 * $ cd gnome-terminal-colors-solarized
 
