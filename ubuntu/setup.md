@@ -92,3 +92,9 @@ https://github.com/seebi/tmux-colors-solarized
 * Needed to add my own line (thanks to unix.stackexchange post)
   \# Specify terminal type  
   set -g default-terminal "screen-256color"
+
+## Install man pages
+Programmer manual pages might be missing:
+
+* $ apt-get install manpages-dev
+* $ apt-get install manpages-posix-dev
