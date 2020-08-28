@@ -98,3 +98,6 @@ Programmer manual pages might be missing:
 
 * $ apt-get install manpages-dev
 * $ apt-get install manpages-posix-dev
+
+## Install dos2unix
+* $ sudo apt install dos2unix
