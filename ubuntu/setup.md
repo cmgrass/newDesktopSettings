@@ -101,3 +101,11 @@ Programmer manual pages might be missing:
 
 ## Install dos2unix
 * $ sudo apt install dos2unix
+
+## Install make
+* $ sudo apt install make
+
+## Install gcc
+Note: May need to apt-get update/upgrade prior to this!
+
+* $ sudo apt install gcc
